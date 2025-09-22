@@ -1,0 +1,199 @@
+>nmap -sS 192.168.0.110/24
+Starting Nmap 7.98 ( https://nmap.org ) at 2025-09-22 19:44 +0530
+Nmap scan report for router1 (192.168.0.1)
+Host is up (0.027s latency).
+Not shown: 996 closed tcp ports (reset)
+PORT     STATE SERVICE
+23/tcp   open  telnet
+53/tcp   open  domain
+80/tcp   open  http
+1900/tcp open  upnp
+MAC Address: 60:A4:B7:C1:07:28 (TP-Link Limited)
+
+Nmap scan report for 192.168.0.100
+Host is up (0.011s latency).
+All 1000 scanned ports on 192.168.0.100 are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+MAC Address: 60:A4:B7:D2:4F:13 (TP-Link Limited)
+
+Nmap scan report for 192.168.0.101
+Host is up (0.029s latency).
+Not shown: 996 closed tcp ports (reset)
+PORT     STATE SERVICE
+81/tcp   open  hosts2-ns
+554/tcp  open  rtsp
+8001/tcp open  vcom-tunnel
+9010/tcp open  sdr
+MAC Address: 98:DF:82:B8:04:CB (Hangzhou Hikvision Digital Technology)
+
+Nmap scan report for 192.168.0.201
+Host is up (0.025s latency).
+Not shown: 996 closed tcp ports (reset)
+PORT     STATE SERVICE
+80/tcp   open  http
+443/tcp  open  https
+554/tcp  open  rtsp
+8000/tcp open  http-alt
+MAC Address: 40:AC:BF:43:64:3C (Hangzhou Hikvision Digital Technology)
+
+Nmap scan report for 192.168.0.202
+Host is up (0.028s latency).
+Not shown: 996 closed tcp ports (reset)
+PORT     STATE SERVICE
+80/tcp   open  http
+443/tcp  open  https
+554/tcp  open  rtsp
+8000/tcp open  http-alt
+MAC Address: 40:AC:BF:43:64:30 (Hangzhou Hikvision Digital Technology)
+
+Nmap scan report for 192.168.0.203
+Host is up (0.030s latency).
+Not shown: 996 closed tcp ports (reset)
+PORT     STATE SERVICE
+80/tcp   open  http
+443/tcp  open  https
+554/tcp  open  rtsp
+8000/tcp open  http-alt
+MAC Address: 40:AC:BF:43:64:37 (Hangzhou Hikvision Digital Technology)
+
+Nmap scan report for 192.168.0.204
+Host is up (0.013s latency).
+Not shown: 996 closed tcp ports (reset)
+PORT     STATE SERVICE
+80/tcp   open  http
+443/tcp  open  https
+554/tcp  open  rtsp
+8000/tcp open  http-alt
+MAC Address: 40:AC:BF:43:64:36 (Hangzhou Hikvision Digital Technology)
+
+Nmap scan report for 192.168.0.205
+Host is up (0.029s latency).
+Not shown: 996 closed tcp ports (reset)
+PORT     STATE SERVICE
+80/tcp   open  http
+443/tcp  open  https
+554/tcp  open  rtsp
+8000/tcp open  http-alt
+MAC Address: 40:AC:BF:4D:B1:B9 (Hangzhou Hikvision Digital Technology)
+
+Nmap scan report for 192.168.0.206
+Host is up (0.030s latency).
+Not shown: 996 closed tcp ports (reset)
+PORT     STATE SERVICE
+80/tcp   open  http
+443/tcp  open  https
+554/tcp  open  rtsp
+8000/tcp open  http-alt
+MAC Address: 40:AC:BF:43:64:35 (Hangzhou Hikvision Digital Technology)
+
+Nmap scan report for 192.168.0.207
+Host is up (0.028s latency).
+Not shown: 996 closed tcp ports (reset)
+PORT     STATE SERVICE
+80/tcp   open  http
+443/tcp  open  https
+554/tcp  open  rtsp
+8000/tcp open  http-alt
+MAC Address: 40:AC:BF:4D:B1:BC (Hangzhou Hikvision Digital Technology)
+
+Nmap scan report for 192.168.0.208
+Host is up (0.017s latency).
+Not shown: 996 closed tcp ports (reset)
+PORT     STATE SERVICE
+80/tcp   open  http
+443/tcp  open  https
+554/tcp  open  rtsp
+8000/tcp open  http-alt
+MAC Address: 40:AC:BF:4D:B1:BA (Hangzhou Hikvision Digital Technology)
+
+Nmap scan report for 192.168.0.209
+Host is up (0.019s latency).
+Not shown: 996 closed tcp ports (reset)
+PORT     STATE SERVICE
+80/tcp   open  http
+443/tcp  open  https
+554/tcp  open  rtsp
+8000/tcp open  http-alt
+MAC Address: 40:AC:BF:4D:B1:94 (Hangzhou Hikvision Digital Technology)
+
+Nmap scan report for 192.168.0.210
+Host is up (0.026s latency).
+Not shown: 996 closed tcp ports (reset)
+PORT     STATE SERVICE
+80/tcp   open  http
+443/tcp  open  https
+554/tcp  open  rtsp
+8000/tcp open  http-alt
+MAC Address: 40:AC:BF:4D:B1:BB (Hangzhou Hikvision Digital Technology)
+
+Nmap scan report for 192.168.0.211
+Host is up (0.026s latency).
+Not shown: 996 closed tcp ports (reset)
+PORT     STATE SERVICE
+80/tcp   open  http
+443/tcp  open  https
+554/tcp  open  rtsp
+8000/tcp open  http-alt
+MAC Address: 40:AC:BF:4D:B1:9F (Hangzhou Hikvision Digital Technology)
+
+Nmap scan report for 192.168.0.212
+Host is up (0.024s latency).
+Not shown: 996 closed tcp ports (reset)
+PORT     STATE SERVICE
+80/tcp   open  http
+443/tcp  open  https
+554/tcp  open  rtsp
+8000/tcp open  http-alt
+MAC Address: 40:AC:BF:4D:B1:B3 (Hangzhou Hikvision Digital Technology)
+
+Nmap scan report for 192.168.0.213
+Host is up (0.024s latency).
+Not shown: 996 closed tcp ports (reset)
+PORT     STATE SERVICE
+80/tcp   open  http
+443/tcp  open  https
+554/tcp  open  rtsp
+8000/tcp open  http-alt
+MAC Address: 40:AC:BF:4D:B1:AB (Hangzhou Hikvision Digital Technology)
+
+Nmap scan report for 192.168.0.214
+Host is up (0.032s latency).
+Not shown: 996 closed tcp ports (reset)
+PORT     STATE SERVICE
+80/tcp   open  http
+443/tcp  open  https
+554/tcp  open  rtsp
+8000/tcp open  http-alt
+MAC Address: 40:AC:BF:4D:B1:B2 (Hangzhou Hikvision Digital Technology)
+
+Nmap scan report for 192.168.0.215
+Host is up (0.027s latency).
+Not shown: 996 closed tcp ports (reset)
+PORT     STATE SERVICE
+80/tcp   open  http
+443/tcp  open  https
+554/tcp  open  rtsp
+8000/tcp open  http-alt
+MAC Address: 40:AC:BF:4D:B1:A6 (Hangzhou Hikvision Digital Technology)
+
+Nmap scan report for 192.168.0.217
+Host is up (0.014s latency).
+Not shown: 996 closed tcp ports (reset)
+PORT     STATE SERVICE
+80/tcp   open  http
+443/tcp  open  https
+554/tcp  open  rtsp
+8000/tcp open  http-alt
+MAC Address: 40:AC:BF:4D:B1:B1 (Hangzhou Hikvision Digital Technology)
+
+Nmap scan report for 192.168.0.110
+Host is up (0.00057s latency).
+Not shown: 995 closed tcp ports (reset)
+PORT    STATE SERVICE
+135/tcp open  msrpc
+139/tcp open  netbios-ssn
+445/tcp open  microsoft-ds
+902/tcp open  iss-realsecure
+912/tcp open  apex-mesh
+
+Nmap done: 256 IP addresses (20 hosts up) scanned in 36.42 seconds
